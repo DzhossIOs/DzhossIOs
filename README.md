@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DzhossIOs
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning iOS development with UIKit
+- 🌱 I’m currently workins iOS development with UIKit
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me aldanysh.zh@gmail.com.  Telegram: @Zhastalap
 
 <!---
 DzhossIOs/DzhossIOs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
